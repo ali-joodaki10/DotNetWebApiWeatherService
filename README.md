@@ -46,8 +46,3 @@ Id: Auto-increment Identity
 CreatedAt: UTC timestamp of data collection
 RawJson: Full raw JSON string from the external API
 Storing raw JSON prioritizes forward compatibility without fragile deserialization, supporting future schema changes and replay.
-
-Getting Started
-Simply build and run the API, and it will begin collecting weather data regularly with automatic retries, persistence, fallback, and periodic cleanup—all without further intervention required.
-
-If you want, I can help you create the full README file, including usage examples, configuration details, and deployment instructions. Just let me know!
